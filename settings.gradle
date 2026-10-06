@@ -1,0 +1,2 @@
+rootProject.name = "OpenDevOptions-ums9620"
+include ':app'
